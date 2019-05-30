@@ -5,3 +5,28 @@
 .nav-con-16 {
   padding-top: 62px;
 }
+
+.underline {
+  text-decoration: underline;
+}
+
+.align-left {
+  text-align: left;
+}
+
+.align-right {
+  text-align: right;
+}
+
+.align-center {
+  text-align: center;
+}
+
+.shadow-box {
+  -webkit-box-shadow: 0 0 12px #ebedf0;
+  box-shadow: 0 0 12px #ebedf0;
+}
+
+.red-txt {
+  color: #ff6b50;
+}

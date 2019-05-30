@@ -2,6 +2,11 @@
 一个基于 [Vant](https://youzan.github.io/vant/) 的借贷产品Demo，主要是为了学习和记录基于 Vue/Vant 开发移动设备单页应用的相关知识。
 
 ### 详情
+#### 开始体验
+* 快速体验：https://huzongyao.github.io/vant-smart-loan/
+* 扫码体验：<br>
+ ![image](https://github.com/huzongyao/vant-smart-loan/blob/master/static/img/qrcode.png?raw=true)
+
 #### 主要依赖
 * Vue
 * Vant
